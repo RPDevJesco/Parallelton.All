@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parallelton.All", "Parallelton.All\Parallelton.All.csproj", "{A5F1BE8B-4204-49FA-B7C6-488A95420F05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParalleltonTestProgram", "ParalleltonTestProgram\ParalleltonTestProgram.csproj", "{9AAE7F3D-3589-43AE-A399-2B153782BC6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncHelpers", "AsyncHelpers\AsyncHelpers.csproj", "{669ACFC4-5E72-4FC6-B6E4-F7F3D9B38DB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadingHelperLib", "ThreadingHelperLib\ThreadingHelperLib.csproj", "{A81273CC-DCFA-4671-81E7-6670CC785AE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5F1BE8B-4204-49FA-B7C6-488A95420F05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5F1BE8B-4204-49FA-B7C6-488A95420F05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5F1BE8B-4204-49FA-B7C6-488A95420F05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5F1BE8B-4204-49FA-B7C6-488A95420F05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AAE7F3D-3589-43AE-A399-2B153782BC6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AAE7F3D-3589-43AE-A399-2B153782BC6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AAE7F3D-3589-43AE-A399-2B153782BC6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AAE7F3D-3589-43AE-A399-2B153782BC6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{669ACFC4-5E72-4FC6-B6E4-F7F3D9B38DB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{669ACFC4-5E72-4FC6-B6E4-F7F3D9B38DB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{669ACFC4-5E72-4FC6-B6E4-F7F3D9B38DB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{669ACFC4-5E72-4FC6-B6E4-F7F3D9B38DB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A81273CC-DCFA-4671-81E7-6670CC785AE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A81273CC-DCFA-4671-81E7-6670CC785AE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A81273CC-DCFA-4671-81E7-6670CC785AE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A81273CC-DCFA-4671-81E7-6670CC785AE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
